@@ -21,6 +21,7 @@ daily dsa for interview prep
 | [0075-sort-colors](https://github.com/laksh611/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/laksh611/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/laksh611/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/laksh611/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -54,4 +55,8 @@ daily dsa for interview prep
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/laksh611/DSA/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/laksh611/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
