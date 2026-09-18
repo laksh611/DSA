@@ -23,6 +23,7 @@ daily dsa for interview prep
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/laksh611/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/laksh611/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/laksh611/DSA/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/laksh611/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ daily dsa for interview prep
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/laksh611/DSA/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/laksh611/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +63,5 @@ daily dsa for interview prep
 | ------- |
 | [0125-valid-palindrome](https://github.com/laksh611/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/laksh611/DSA/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/laksh611/DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
